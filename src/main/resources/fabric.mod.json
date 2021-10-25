@@ -9,8 +9,9 @@
     "Technici4n"
   ],
   "contact": {
-    "homepage": "https://github.com/AztechMC/Modern-Industrialization",
-    "sources": "https://github.com/AztechMC/Modern-Industrialization"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/modern-industrialization",
+    "sources": "https://github.com/AztechMC/Modern-Industrialization",
+    "issues": "https://github.com/AztechMC/Modern-Industrialization/issues"
   },
   "license": "MIT",
   "icon": "assets/modern_industrialization/milogo.png",
